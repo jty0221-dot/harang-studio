@@ -1,11 +1,10 @@
 {
-  "최신버전": "1.10.0",
-  "날짜": "2026-08-17",
-  "올릴파일": "HarangStudio-1.10.0.exe",
-  "다운로드": "https://github.com/jty0221-del/harang-studio/releases/download/1.10.0/HarangStudio-1.10.0.exe",
-  "크기": 119491993,
-  "지문": "bbbfc638e1590930dc78c0f298ed81c762c70b79eed7764234167ad0de5c4bf2",
+  "최신버전": "1.11.0",
+  "날짜": "2026-08-26",
+  "올릴파일": "HarangStudio-1.11.0.exe",
+  "다운로드": "https://github.com/jty0221-dot/harang-studio/releases/download/1.11.0/HarangStudio-1.11.0.exe",
+  "크기": 119516848,
+  "지문": "4207cf0d...",
   "필수": false,
-  "바뀐점": "GIF 저장 폴더가 한 단계 줄고, 원본 폴더에 바로 저장하는 선택지가 생겼습니다.",
-  "_안내": "다운로드에는 새 exe 파일의 직접 내려받기 주소를 넣으세요. GitHub Releases 를 권합니다. 이 파일을 인터넷에 올리고 그 주소를 판매설정.json 의 '버전정보주소' 에 넣으면 자동 업데이트가 켜집니다."
+  "바뀐점": "..."
 }
